@@ -1,0 +1,14 @@
+.Amount-box {
+    position: relative;
+  }
+   .Amount-box input {
+    width: 50%;
+    padding: 5px 0;
+    color: #fff;
+    margin-left: 10%;
+
+    /* border: none; */
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+  }
