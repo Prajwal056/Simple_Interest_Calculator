@@ -13,7 +13,6 @@ function compute()
 
 }
 
-
 function refreshSlider(){
 rate.value
 
